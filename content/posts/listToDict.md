@@ -1,9 +1,7 @@
 ---
-title: "List를 Dictionary로 변환하는 방법"
-date: 2021-02-25T22:24:17+09:00
+title: "ListToDict"
+date: 2021-02-26T00:22:09+09:00
 draft: true
-categories: [알고리즘]
-linkToMarkdown: true
 ---
 
 ## 파이썬 List to Dict
