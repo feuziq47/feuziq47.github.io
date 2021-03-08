@@ -1,4 +1,4 @@
-baseURL = "https://feuziq47.github.io/sundayprint"
+baseURL = "https://feuziq47.github.io/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "kr"
 # language code
