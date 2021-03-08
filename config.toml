@@ -1,8 +1,8 @@
-baseURL = "https://feuziq47.github.io/sundayprint/"
+baseURL = "https://feuziq47.github.io/"
 # [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "kr"
 # language code
-languageCode = "en"
+languageCode = "kr"
 title = "Sun's dayprint"
 
 # Change the default theme to be use when building the site with Hugo
@@ -16,7 +16,7 @@ theme = "LoveIt"
 # site description
   description = "오늘의 발자국"
   # site keywords
-  keywords = ["IT", "Programming", "Go", "Spring"]
+  keywords = ["IT", "알고리즘", "Go", "Spring"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
