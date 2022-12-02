@@ -1,7 +1,7 @@
 ---
 title: "2021년의 목표"
 date: 2021-01-07T18:38:18+09:00
-draft: false
+draft: true
 categories: [개인기록]
 linkToMarkdown: true
 ---
