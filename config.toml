@@ -78,7 +78,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = "개발자의 발자국"
+      name = "김선우의 발자국"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -153,7 +153,7 @@ theme = "LoveIt"
       defaultHiddenFromHomePage = false
     [params.social]
       GitHub = "feuziq47"
-      Email = "feuziq47@naver.com"
+      Email = "feuziq47@gmail.com"
       RSS = true
     [params.page.code]
       # whether to show the copy button of the code block
